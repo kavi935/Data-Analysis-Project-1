@@ -9,7 +9,7 @@ This project analyzes global EV trends, forecasts, and adoption using SQL, Power
 
 ## 📊 Dashboard Preview
 
-![EV Dashboard](screenshot.png)
+![EV Dashboard](https://github.com/kavi935/Data-Analysis-Project-1/blob/main/Screenshot.png)
 
 > *(View dashboard insights in the video below )*
 
