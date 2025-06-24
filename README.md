@@ -19,7 +19,7 @@ This project analyzes global EV trends, forecasts, and adoption using SQL, Power
 
 Watch this short video to understand the key insights from the dashboard:
 
-[🔗 https://drive.google.com/file/d/1iaMg-K9jAhyTFc89QtuxUQY07wDCUDkE/view?usp=drive_link](#)  
+🎬 [Click to watch EV Dashboard Walkthrough](https://drive.google.com/uc?export=download&id=1iaMg-K9jAhyTFc89QtuxUQY07wDCUDkE)(#)  
 
 
 ---
