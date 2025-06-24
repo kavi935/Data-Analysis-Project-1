@@ -1,0 +1,66 @@
+{
+    "name": "IEA EV Premium Theme 2024",
+    "dataColors": [
+        "#0D47A1",
+        "#29B6F6",
+        "#FF7043",
+        "#26C6DA",
+        "#BA68C8",
+        "#7CB342",
+        "#EF5350",
+        "#3949AB",
+        "#FFB300",
+        "#5C6BC0"
+    ],
+    "background": "#eaf6f9",
+    "foreground": "#1A237E",
+    "tableAccent": "#00ACC1",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [
+                    {
+                        "fontColor": {
+                            "solid": {
+                                "color": "#1A237E"
+                            }
+                        },
+                        "fontSize": 15,
+                        "fontFamily": "Lato"
+                    }
+                ],
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#424242"
+                            }
+                        },
+                        "fontSize": 12,
+                        "fontFamily": "Lato"
+                    }
+                ],
+                "background": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#ffffff"
+                            }
+                        },
+                        "transparency": 0
+                    }
+                ],
+                "border": [
+                    {
+                        "show": true,
+                        "color": {
+                            "solid": {
+                                "color": "#B0BEC5"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
